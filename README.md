@@ -31,7 +31,9 @@ TTS TESO - Text-to-Speech для The Elder Scrolls Online
 
 Python 3.8+ ([скачать](https://www.python.org/downloads/))
 
-[Скачать](https://drive.google.com/file/d/1k5RHy8rGME7iPWxEAtadYKoALdIvb_5v/view?usp=drivesdk) готовый архив, с Питоном и Тесерактом, распаковать в корень проекта, или произвенсти все действия в ручую:
+
+[Скачать](https://drive.google.com/file/d/1k5RHy8rGME7iPWxEAtadYKoALdIvb_5v/view?usp=drivesdk) готовый архив, с Питоном и Тесерактом, распаковать в корень проекта, или произвести все действия в ручую:
+
 
 Tesseract OCR ([установка](https://github.com/UB-Mannheim/tesseract/wiki))(ВАЖНО!!!
 Установите и добавьте в корень программы, с названием папки Tesseract-OCR)
