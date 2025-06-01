@@ -71,10 +71,23 @@ Tesseract OCR ([установка](https://github.com/UB-Mannheim/tesseract/wik
 
 Места в коде:
 
-    Основное окно: ```root = tk.Tk()```
-    Создание фреймов (например, ```self.sidebar = tk.Frame(...)```)
-    Кнопки (например, ```self.start_button = tk.Button(...)```)
-    Методы ```create_home_page(), create_settings_page()``` и др.
+    Основное окно: 
+
+    ```root = tk.Tk()```
+
+    Создание фреймов
+
+    ```self.sidebar = tk.Frame(...)```
+    
+    Кнопки 
+    
+    ```self.start_button = tk.Button(...)```
+
+    Методы 
+    
+    ```create_home_page(), create_settings_page()``` 
+    
+    И др.
 ___
 >ttk (стилизованные виджеты)
 
