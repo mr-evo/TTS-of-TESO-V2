@@ -98,8 +98,6 @@ ___
 self.resolution_menu = ttk.Combobox(...)
 ```
 
-    Стили:
-
 ```python
 style = ttk.Style()
 style.configure('Custom.TCombobox', ...)
