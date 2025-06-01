@@ -2,7 +2,7 @@
 TTS TESO - Text-to-Speech для The Elder Scrolls Online
 Программа для автоматического озвучивания диалогов в The Elder Scrolls Online (TESO) с помощью OCR и синтеза речи.
 
-Программа была собрана в exe, и не требует дополнительных манипуляций, работает прямо из коробки [скачать]((https://drive.google.com/file/d/1Ir8IXndxAA-q1ZGg4UGLbpOhX70WBsAw/view?usp=drivesdk))
+Программа была собрана в exe, и не требует дополнительных манипуляций, работает прямо из коробки [скачать](https://drive.google.com/file/d/1Ir8IXndxAA-q1ZGg4UGLbpOhX70WBsAw/view?usp=drivesdk)
 
 Для репозитория в ГитХаб требуется прочитать описание ниже
 
