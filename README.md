@@ -2,6 +2,10 @@
 TTS TESO - Text-to-Speech для The Elder Scrolls Online
 Программа для автоматического озвучивания диалогов в The Elder Scrolls Online (TESO) с помощью OCR и синтеза речи.
 
+Программа была собрана в exe, и не требует дополнительных манипуляций, работает прямо из коробки [скачать]([в будущем](https://drive.google.com/file/d/1Ir8IXndxAA-q1ZGg4UGLbpOhX70WBsAw/view?usp=drivesdk))
+
+Для репозитория в ГитХаб требуется прочитать описание ниже
+
 # Возможности
 
 -Автоматическое распознавание текста (через Tesseract OCR)
@@ -24,8 +28,16 @@ TTS TESO - Text-to-Speech для The Elder Scrolls Online
 # Установка
 
 Требования:
-    Python 3.8+ ([скачать](https://www.python.org/downloads/))
-    Tesseract OCR ([установка](https://github.com/UB-Mannheim/tesseract/wiki))(ВАЖНО!!! Установите и добавьте в корень программы, с названием папки Tesseract-OCR)
+
+Python 3.8+ ([скачать](https://www.python.org/downloads/))
+
+[Скачать](https://drive.google.com/file/d/1k5RHy8rGME7iPWxEAtadYKoALdIvb_5v/view?usp=drivesdk) готовый архив, с Питоном и Тесерактом, распаковать в корень проекта, или произвенсти все действия в ручую:
+
+Tesseract OCR ([установка](https://github.com/UB-Mannheim/tesseract/wiki))(ВАЖНО!!!
+Установите и добавьте в корень программы, с названием папки Tesseract-OCR)
+
+Для Tesseract OCR, потребуется установить базу данных в папку Tesseract OCR\tessdata ([скачать](https://github.com/tesseract-ocr/tessdata/tree/main))
+
 Зависимости:
 ```
     pip install pyautogui keyboard pyttsx3 pytesseract pillow
